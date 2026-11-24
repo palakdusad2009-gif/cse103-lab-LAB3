@@ -1,0 +1,8 @@
+Alice,CSE,82
+Bob,AIML,76
+Carol,CSE,91
+Dave,Cyber,65
+Eve,CSE,88
+Frank,AIML,72
+Grace,Cyber,95
+Hank,CSE,55

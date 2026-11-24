@@ -1,0 +1,40 @@
+===============================================
+ SYSTEM HEALTH REPORT - 2026-10-23
+===============================================
+
+[CPU INFO]
+Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+
+[MEMORY USAGE]
+Used: 481Mi / Total: 3.8Gi (Free: 3.3Gi)
+
+[DISK USAGE]
+/usr/lib/modules/6.18.54.1-microsoft-standard-WSL2 Used: 0      / 1.9G   (0%)
+/usr/lib/linux-tools/6.18.54.1-microsoft-standard-WSL2 Used: 97M    / 97M    (100%)
+/mnt/wsl             Used: 4.0K   / 1.9G   (1%)
+/usr/lib/wsl/drivers Used: 96G    / 107G   (90%)
+/                    Used: 1.6G   / 1007G  (1%)
+/mnt/wslg            Used: 36K    / 1.9G   (1%)
+/usr/lib/wsl/lib     Used: 0      / 1.9G   (0%)
+/init                Used: 3.4M   / 1.9G   (1%)
+/run                 Used: 504K   / 1.9G   (1%)
+/run/lock            Used: 0      / 1.9G   (0%)
+/run/shm             Used: 0      / 1.9G   (0%)
+/mnt/wslg/versions.txt Used: 80K    / 1.9G   (1%)
+/mnt/wslg/doc        Used: 80K    / 1.9G   (1%)
+/mnt/c               Used: 96G    / 107G   (90%)
+/mnt/d               Used: 120M   / 340G   (1%)
+/run/credentials/systemd-journald.service Used: 0      / 1.0M   (0%)
+/run/credentials/systemd-resolved.service Used: 0      / 1.0M   (0%)
+/run/credentials/getty@tty1.service Used: 0      / 1.0M   (0%)
+
+[TOP 5 PROCESSES BY CPU]
+/usr/libexec/wsl-pro-service PID:1364   CPU:0.6   MEM:0.3
+/init                  PID:996    CPU:0.0   MEM:0.0
+/usr/lib/systemd/systemd-udevd PID:113    CPU:0.0   MEM:0.3
+/sbin/init             PID:1      CPU:0.0   MEM:0.3
+-bash                  PID:1000   CPU:0.0   MEM:0.1
+
+[UPTIME]
+ 10:37:02 up  1:34,  1 user,  load average: 0.03, 0.02, 0.00
+==============================================
